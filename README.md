@@ -20,6 +20,7 @@ Then, the ```qs.txt``` has 5 queries with the following example:
 > qry 72  
 
 Finally, ```output.txt``` returns the following after predecessor queries:
+(it will show 'no' if there are no predecessors of that query)
 > 81  
 > 23  
 > no  
