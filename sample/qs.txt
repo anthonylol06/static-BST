@@ -1,0 +1,5 @@
+qry 95
+qry 23
+qry 7
+qry 57
+qry 72
